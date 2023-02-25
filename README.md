@@ -1,1 +1,3 @@
-# WordNet
+# WordNet Assignment
+This assignment helps with understanding WordNet using jupyter notebook. The objectives of the assignment are: to demonstrate basic skills using WordNet and SentiWordNet
+and Learn to identify collocations. It also shows examples of how to extract the definition, usage examples, and lemmas of a verb and a noun as well as the traverse up of the WordNet hierarchy. It also Outputs collocations for text4, the Inaugural corpus. This assignment also shows how to select one of the collocations identified by NLTK and calculate mutual information and give different definitions and summaries about the different functionalities. Feel free to check the notebook
